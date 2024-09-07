@@ -7,3 +7,6 @@ The interpolations used are:
 
 
 Code on demand.
+
+## Video Demonstration
+[Video](https://youtu.be/42qB2e-HTK0)
